@@ -29,6 +29,4 @@ Multi-screen navigation
 UI design and layout
 State management (favorites)
 Real-world app structure
-
-💡 This app can be further enhanced by adding backend integration, real booking systems, and authentication services.
-
+This app can be further enhanced by adding backend integration, real booking systems, and authentication services.
